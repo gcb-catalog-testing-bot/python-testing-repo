@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="python-testing-app",
+    name="python-app-by-setuptools",
     version="3.0.0",
     description="A sample Python project",
     long_description=open("README.md").read(),
